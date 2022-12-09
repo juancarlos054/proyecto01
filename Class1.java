@@ -3,6 +3,7 @@ public class Class1 {
         System.out.println("-----------------");
         System.out.println("Esto es una prueba");
         System.out.println("-----------------");
+        System.out.println("Esto es una segunda prueba");
 
     }
 }
